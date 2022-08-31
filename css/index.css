@@ -1,0 +1,27 @@
+.jumbotron {
+    color-scheme:blue;
+    }
+    
+    h1.display-4 {
+      color:blue;
+    }
+a {
+   color: yellow;
+}
+.lead {
+    color: blue
+}
+
+ul{
+    background-color: blue;
+}
+
+footer {
+    padding: 40px;
+    background-color: blue;
+}
+
+.footer-text {
+    color: yellow
+
+}
